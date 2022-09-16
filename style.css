@@ -1,0 +1,29 @@
+body {
+    margin: 0; padding: 0;
+    background-color: #B2C8DF;
+    
+}
+
+#menubar{
+    border: 1px solid black;
+    height: 100px;
+    width: 100%;
+    position: absolute;
+}
+
+#profile-img{
+   border: 1px solid black;
+   height: 80px;
+   width: 80px;
+   margin: 10px 0 0 100px;
+   position: relative;
+}
+.imgs{
+    height: 80px;
+}
+#navbar-menu{
+    border: 1px solid black;
+    margin: -103px 60% 100px ;
+    height: 110px;
+    position:absolute;
+}
